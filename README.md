@@ -2,7 +2,7 @@
 
 I made a very basic 4-bit Emulator. Right now, it only has 7 instructions out of 16, and it is a Turing machine.
 
-#Registors
+#  Registers
 
 A 
 > Initial Register - 0x0
@@ -14,7 +14,7 @@ D
 > All ALU Operation Results Go Into Here - 0x3
 
 
-#Instuctions
+# Instructions
 # 0000 0x0 (Value)
 > Sets the value for the A register
 
