@@ -1,8 +1,8 @@
 # 4-Bit-Emulator
 
-A very basic 4-Bit Emulator that I made. Right now it only has 7 instructions out of 16, and kinda is a turing machine.
+I made a very basic 4-bit Emulator. Right now, it only has 7 instructions out of 16, and it is a Turing machine.
 
-=--Registors-=
+##=--Registors-=
 
 A - Initial Register - 0x0
 B - 0x1
@@ -10,7 +10,7 @@ C - 0x2
 D - All ALU Operation Results Go Into Here - 0x3
 
 
-=--Instuctions--=
+##=--Instuctions--=
 # 0000 0x0 (Value)
 > Sets the value for the A register
 
