@@ -1,7 +1,6 @@
 # 4-Bit-Emulator
 
-I made a very basic 4-bit Emulator. Right now, it only has 7 instructions out of 16, and it is a Turing machine.
-
+I made a very basic 4-bit Emulator. Right now, it only has 7 instructions out of 16, and it is a Turing machine. The current code in the `main.py` calculates the Fibonacci Sequence, but doesn't stop at 256.
 #  Registers
 
 A Initial Register - 0x0,
